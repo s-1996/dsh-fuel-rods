@@ -1,9 +1,9 @@
 {
   "name": "@local/dsh-fuel-rods",
-  "version": "2.4.2",
+  "version": "2.4.3",
   "private": true,
   "type": "module",
-  "description": "WebGL2 Bloom reactor over a reference-style stage gradient, with optional sidebar sync, conversation-sized rods, four background tones, rod sensitivity, motion smoothing, and an estimated session cost footer.",
+  "description": "WebGL2 Bloom reactor over a reference-style stage gradient, with optional sidebar sync, conversation-sized rods, four background tones, rod sensitivity, motion smoothing, reactor opacity, and an estimated session cost footer.",
   "license": "MIT",
   "icon": "./icon.svg",
   "exports": {
@@ -17,6 +17,7 @@
     "cordis.patch.yml",
     "LICENSE",
     "locale/*.json",
+    "assets",
     "icon.svg",
     "README.md"
   ],
