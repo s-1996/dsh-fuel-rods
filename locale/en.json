@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Reactor Bloom Background",
+    "description": "A WebGL2 bloom control-rod reactor over a reference-style stage gradient driven by token usage, cache hit rate, output speed, and context occupancy. The stage scales to the conversation area and can sync into the sidebars; four background tones, reactor strength, rod sensitivity, motion smoothing, and an estimated session cost are available."
+  }
+}

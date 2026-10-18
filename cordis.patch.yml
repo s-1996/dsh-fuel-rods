@@ -1,0 +1,3 @@
+- insert:
+    - id: fuel-rods
+      name: '@local/dsh-fuel-rods'
